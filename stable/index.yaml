@@ -3,7 +3,7 @@ entries:
   onos-helm-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2020-10-13T02:51:11.100847215Z"
+    created: "2020-10-14T06:08:11.796704323Z"
     description: A Helm chart for Kubernetes
     digest: a304a47b165f243637181f67f89687717e5d8e989fd6cbcc0e03cc94d4840fd8
     name: onos-helm-chart
@@ -11,4 +11,4 @@ entries:
     urls:
     - onos-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-10-13T02:51:11.099157963Z"
+generated: "2020-10-14T06:08:11.795675707Z"
